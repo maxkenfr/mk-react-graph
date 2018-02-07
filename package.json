@@ -1,0 +1,42 @@
+{
+  "name": "mk-react-graph",
+  "version": "1.0.1",
+  "description": "Create Wonderfull, lightweight, and responsive graph with react",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxkenfr/mk-react-graph.git"
+  },
+  "keywords": [
+    "react",
+    "graph",
+    "stats",
+    "maxken"
+  ],
+  "author": "Max Bryselbout (Maxken)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxkenfr/mk-react-graph/issues"
+  },
+  "peerDependencies": {
+    "react": "^16.2.0"
+  },
+  "homepage": "https://github.com/maxkenfr/mk-react-graph#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "webpack": "^3.10.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.1"
+  }
+}
