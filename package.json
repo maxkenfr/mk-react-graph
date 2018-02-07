@@ -1,6 +1,6 @@
 {
   "name": "mk-react-graph",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create Wonderfull, lightweight, and responsive graph with react",
   "main": "build/index.js",
   "scripts": {

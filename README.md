@@ -24,7 +24,7 @@ or
     render(){
 	    return (
 		    <Graph
-	          height={220}
+	        height={220}
 		      linesColors={[
 		        {
 		          border : '#E5C7FF',
@@ -50,8 +50,8 @@ or
 		          labelColor : "#FF9F00"
 		        }
 		      ]}
-	          labels={['12/01', '13/01', '14/01', '15/01']}
-	          />
+	        labels={['12/01', '13/01', '14/01', '15/01']}
+	      />
 	    )
     }
     ...
